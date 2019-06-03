@@ -1,3 +1,0 @@
-<?java
-javainfo();
-。
